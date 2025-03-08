@@ -7,3 +7,10 @@ Funcionalidades:
 Deauth Flood (derruba todas as redes encontradas sem precisar selecionar)
 Beacon Flood (Gera redes falsas das redes selecionadas)
 Deauth + Beacon Flood (faz ataque a as redes selecionadas e gera redes falsas ao mesmo tempo)
+
+
+
+
+
+
+quando descompactar o arquivo crie uma pasta e coloque todos os arquivos extraidos dentro dela e então copie e coloque dentro da pasta Arduino 
