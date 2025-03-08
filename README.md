@@ -1,6 +1,6 @@
 Acesse o AP gerado quando você conecta sua placa bw16 e acesse o seguinte IP no seu navegador:192.168.1.1
 
-Senha:deauther
+Senha do AP:deauther
 
 Funcionalidades:
 
